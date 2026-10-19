@@ -18,13 +18,13 @@ A passionate Robotics and Automation Engineering student building intelligent ma
 ### Connect with me
 
 <a href="https://www.linkedin.com/" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35" alt="LinkedIn">
+  <img src="https://img.icons8.com/color/96/linkedin.png" height="35" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/RISHI-747" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/github" height="35" alt="GitHub">
 </a>&nbsp;&nbsp;
 <a href="mailto:rishigovindharajan@gmail.com" title="Email">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="35" alt="Email">
+  <img src="https://cdn.simpleicons.org/gmail" height="35" alt="Email">
 </a>
 
 <br clear="right">
@@ -52,12 +52,6 @@ A passionate Robotics and Automation Engineering student building intelligent ma
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-747&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-747&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-747&layout=compact&hide_border=true" alt="Most used programming languages">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RISHI-747&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RISHI-747&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHI-747&hide_border=true" width="100%" alt="GitHub contribution activity">
 </picture>
 
 <div align="center">
