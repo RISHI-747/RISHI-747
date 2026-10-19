@@ -1,29 +1,42 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">Automation & Robotics Engineering | Robotics Developer</h3>
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+<div align="center">
+<h1>Hi 👋, I'm Rishi</h1>
+<h3>Automation & Robotics Engineering | Robotics Developer</h3>
+</div>
 
-A passionate Robotics and Automation Engineering student building intelligent machines.
+<div>
+<img align="right" src="assets/dancing-robot.gif" width="220" alt="Animated dancing robot">
 
-- 🤖 Interested in robotics, automation, and intelligent machines.
-- 🌱 Exploring ROS 2, robot manipulation, and motion control.
-- 🐍 Working with Python, computer vision, and embedded systems.
-- ⚙️ Interested in control engineering, simulation, and mechanical design.
+<p>A passionate Robotics and Automation Engineering student building intelligent machines.</p>
 
-**Connect with me**
+<ul>
+<li>🤖 Interested in robotics, automation, and intelligent machines.</li>
+<li>🌱 Exploring ROS 2, robot manipulation, and motion control.</li>
+<li>🐍 Working with Python, computer vision, and embedded systems.</li>
+<li>⚙️ Interested in control engineering, simulation, and mechanical design.</li>
+</ul>
 
-<a href="https://www.linkedin.com/in/rishi747"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="36" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://github.com/RISHI-747"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="36" alt="GitHub"></a>&nbsp;&nbsp;
-<a href="mailto:rishigovindharajan@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="36" alt="Email"></a>
+<p><b>Connect with me</b></p>
+<p>
+<a href="https://www.linkedin.com/" >LinkedIn</a> ·
+<a href="https://github.com/RISHI-747">GitHub</a> ·
+<a href="mailto:rishigovindharajan@gmail.com">Email</a>
+</p>
+</div>
+<br clear="right">
 
-</td>
-<td width="32%" align="center" valign="middle">
-<img src="assets/dancing-robot.gif" width="250" alt="Animated dancing robot">
-</td>
-</tr>
-</table>
+<h2>Languages and Tools</h2>
+<p>
+<img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ROS 2">
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">
+<img src="https://cdn.simpleicons.org/mathworks/E16737" height="40" alt="MATLAB">
+<img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="Blender">
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux">
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code">
+</p>
 
 ## Languages and Tools
 
@@ -40,19 +53,19 @@ A passionate Robotics and Automation Engineering student building intelligent ma
 
 <p align="center">
 <a href="https://github.com/RISHI-747">
-<img src="https://github-readme-stats.vercel.app/api?username=RISHI-747&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=RISHI-747&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" alt="GitHub statistics">
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/RISHI-747">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-747&layout=compact&hide_border=true" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-747&layout=compact&hide_border=true&bg_color=00000000" alt="Most used languages">
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/RISHI-747">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHI-747&hide_border=true" alt="GitHub contribution activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHI-747&hide_border=true&bg_color=00000000" alt="GitHub contribution activity">
 </a>
 </p>
 
