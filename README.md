@@ -2,6 +2,8 @@
 
 <h3 align="center">Automation & Robotics Engineering | Robotics Developer</h3>
 
+<p align="center"><img src="assets/dancing-robot.gif" width="260" alt="Animated dancing robot"></p>
+
 <p align="left">
 A passionate Robotics and Automation Engineering student building intelligent machines.
 </p>
