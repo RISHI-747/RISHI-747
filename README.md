@@ -1,35 +1,45 @@
-<h1 align="center">Hi, I'm Rishi!</h1>
-<h3 align="center">Automation & Robotics Engineering | Robotics Developer</h3>
+<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h3 align="center">Automation & Robotics Engineering Student | Robotics Developer</h3>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### About Me
+
+- 🤖 Passionate about robotics, automation, and intelligent machines.
+- 🌱 Exploring ROS 2, robot manipulation, and motion control.
+- 🐍 Working with Python, computer vision, and embedded systems.
+- 🔧 Interested in control engineering and robotic applications.
+
+### Connect with me
+
+<a href="https://github.com/RISHI-747">GitHub Profile</a>
+
+### Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,github,vscode" alt="Languages and tools">
+</p>
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="assets/dancing-robot.gif" width="270" alt="Dancing robot">
+
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Statistics
 
 <p align="center">
-  <img src="assets/dancing-robot.gif" width="240" alt="Dancing robot">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RISHI-747&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHI-747&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
-<p align="center">Building intelligent machines through robotics, automation, and software.</p>
-
-## About Me
-
-- Robotics and automation engineering student
-- Exploring ROS 2 and robot manipulation
-- Working with Python and computer vision
-- Interested in embedded systems and control engineering
-
-## Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,github,vscode" alt="Technical skills">
+<p align="center">
+<i>Building, learning, and bringing robots to life.</i>
 </p>
-
-## Featured Projects
-
-- **Dobot Magician:** Robot control and motion planning
-- **YOLO Object Detection:** Computer vision and object recognition
-- **Robotics Simulation:** Robot models and control
-
-## GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHI-747&show_icons=true&theme=tokyonight" alt="GitHub statistics">
-</p>
-
-<p align="center">Keep building. Keep learning. Keep creating.</p>
